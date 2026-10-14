@@ -12,12 +12,11 @@
 <table>
   <tr>
     <td width="60%" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=2BB5F5&vCenter=true&width=520&height=70&lines=Hey,+I+am+Hiba+Saeed;Computer+Systems+Engineer;I+build+AI+tools+for+real+problems;Building+something+in+robotics" alt="Typing animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=2BB5F5&vCenter=true&width=520&height=70&lines=Hey,+I+am+Hiba+Saeed;Computer+Systems+Engineer" alt="Typing animation" />
     </td>
     <td width="40%" valign="middle" align="center">
       <h3>🤖 Currently building</h3>
       <p>A robotics project with my team.<br/>More details coming soon.</p>
-      <!-- Want a visual here instead? Replace this cell's content with your own image or GIF. -->
     </td>
   </tr>
 </table>
