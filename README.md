@@ -78,20 +78,4 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HibaSaeed1/AI-Interview-Agent">🎤 AI Interview Agent</a></h3>
-      <p>Voice interview practice tool. It asks adaptive questions, transcribes your answers live and gives you a scored feedback report.</p>
-      <p><b>Built with:</b> FastAPI · Groq · Postgres · Vercel</p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Once you tell me the repo name, wrap this title in a link like the one on the left. -->
-      <h3>🌾 AI Chatbot for Farmers</h3>
-      <p>An AI assistant that gives farmers practical recommendations on weather, fertilizer, crops and soil, all in one conversation.</p>
-      <!-- Add a "Built with:" line once you know the stack. -->
-    </td>
-  </tr>
-</table>
